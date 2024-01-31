@@ -1,0 +1,3 @@
+Front -> Streamlit -> streamlit run Dashboard.py
+
+Back -> FastAPI -> uvicorn api_func:app --reload
